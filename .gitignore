@@ -1,0 +1,5 @@
+firmware/include/secrets.h
+logs/
+sdk/guide01/
+.pio/
+.vscode/
